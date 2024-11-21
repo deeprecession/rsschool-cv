@@ -3,8 +3,6 @@
 
 ## Junior Frontend Developer
 
----
-
 ### Contacts
 [Telegram](https://t.me/deeprecession) | work52vlad@gmail.com | [LinkedIn](https://www.linkedin.com/in/vladislav-kishkovsky-881242228/)
 
