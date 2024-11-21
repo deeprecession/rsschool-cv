@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://deeprecession.github.io/rsschool-cv/cv
+https://deeprecession.github.io/rsschool-cv/
