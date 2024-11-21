@@ -53,3 +53,5 @@ Now my goal is to contribute to projects that challenge me and help me grow as a
 
 - **English**: B2 (Intermediate)
 - **Russian**: Native
+
+---
